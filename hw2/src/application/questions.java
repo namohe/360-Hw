@@ -1,6 +1,6 @@
 package application;
 
-import java.sql.SQLException;
+
 import java.util.ArrayList;
 import databasePart1.DatabaseHelper;
 import javafx.scene.Scene;
@@ -8,7 +8,7 @@ import javafx.stage.Stage;
 import javafx.scene.control.*;
 import javafx.scene.layout.VBox;
 import java.util.List;
-import java.util.Optional;
+
 import java.util.stream.Collectors;
 
 
